@@ -174,7 +174,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ipquery.io](https://ipquery.io/) - The IP Address API for Developers
 - [domaincodex.com](https://www.domaincodex.com/) - Research 500m+ root domain information and all associated data, including records, IP address, page metadata and much more
 - [APIfreaks.com](https://apifreaks.com/) - Unified API hub providing DNS, WHOIS, IP geolocation, screenshots and commodity data APIs for developers and security teams
-- [HackMyIP](https://hackmyip.com/) - Free privacy and security toolkit with 19+ tools including IP lookup, DNS lookup, DNS leak test, WebRTC leak test, port scanner, and email breach checker. No registration required
+- [HackMyIP](https://hackmyip.com/) - Free privacy and security toolkit with 19+ tools including IP lookup, DNS lookup, DNS leaks test and many others
 
 ### Code
 
