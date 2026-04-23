@@ -174,6 +174,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ipquery.io](https://ipquery.io/) - The IP Address API for Developers
 - [domaincodex.com](https://www.domaincodex.com/) - Research 500m+ root domain information and all associated data, including records, IP address, page metadata and much more
 - [APIfreaks.com](https://apifreaks.com/) - Unified API hub providing DNS, WHOIS, IP geolocation, screenshots and commodity data APIs for developers and security teams
+- [HackMyIP](https://hackmyip.com/) - Free privacy and security toolkit with 19+ tools including IP lookup, DNS lookup, DNS leak test, WebRTC leak test, port scanner, and email breach checker. No registration required
 
 ### Code
 
@@ -302,7 +303,6 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [DNSdb](https://docs.farsightsecurity.com/#dnsdb) - Passive DNS historical database
 - [Omnisint](https://omnisint.io/reverse-dns-lookup) - Reverse DNS lookup
 - [HackerTarget](https://hackertarget.com/ip-tools/) - Collect information about IP Addresses, Networks, Web Pages and DNS records
-- [HackMyIP](https://hackmyip.com/) - Free privacy and security toolkit with 19+ tools including IP lookup, DNS lookup, DNS leak test, WebRTC leak test, port scanner, and email breach checker. No registration required
 - [passivedns.mnemonic.no](https://passivedns.mnemonic.no/) - Web interface for querying passive DNS data collected in our malware lab
 - [ptrarchive.com](http://ptrarchive.com/) - Over 230 billion reverse DNS entries from 2008 to the present
 - [dnshistory.org](http://dnshistory.org/) - Domain Name System Historical Record Archive
